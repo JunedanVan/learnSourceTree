@@ -2,4 +2,5 @@ file1
 file11
 file
 wo bu ai ni
-master:file1
+master,father:file1
+wo tai ta ma bu ai ni
