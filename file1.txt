@@ -1,4 +1,5 @@
 file1
 file11
 file
-wo bu ai ni
+wo tai ta ma bu ai ni
+father:1
